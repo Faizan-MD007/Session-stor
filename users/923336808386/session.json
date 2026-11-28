@@ -1,0 +1,68 @@
+{
+  "files": [
+    {
+      "name": "creds.json",
+      "content": "{\"noiseKey\":{\"private\":{\"type\":\"Buffer\",\"data\":\"QA1vTQkqgQyLNXyWgC96u384BEN69P6ENRfstNDMlng=\"},\"public\":{\"type\":\"Buffer\",\"data\":\"G2m1+LcW+8w5rbANtZUYpNJvF8Kx0HJS0piaJKHwEAk=\"}},\"pairingEphemeralKeyPair\":{\"private\":{\"type\":\"Buffer\",\"data\":\"CEFTjMljYeO0KMhbM9hVoi3URnBDkns62BzkU0ImaEU=\"},\"public\":{\"type\":\"Buffer\",\"data\":\"ngBsp7GI4oqgd3bkDaDnTa+KvCldqzrcGlEyfwH8cRc=\"}},\"signedIdentityKey\":{\"private\":{\"type\":\"Buffer\",\"data\":\"EGOprrSpXgdoV1a5GEFpi6AhaEq46N5gwVuDESn+h04=\"},\"public\":{\"type\":\"Buffer\",\"data\":\"6k8Hr6FzfXr6xNXUGphmk6oD4ShjLNCRWpwV7/NH6nE=\"}},\"signedPreKey\":{\"keyPair\":{\"private\":{\"type\":\"Buffer\",\"data\":\"AKMmzYcpuZJqQ99+Lv+Nrz6d0QMqp7NwA3joPBglX2Y=\"},\"public\":{\"type\":\"Buffer\",\"data\":\"2hCvYglJx6jcuLOHv+erzUxxuhm1f+xpe16wkM0obHQ=\"}},\"signature\":{\"type\":\"Buffer\",\"data\":\"fNjIoQpwFxVcB6z8jjJUFfnRIV1i6BFDxlvVWeh/L408JJWz0bvE1fgU5FS3yuOu0CjFNKN+5oPidGQnagcJjw==\"},\"keyId\":1},\"registrationId\":65,\"advSecretKey\":\"J4GalvF0lU0d4REqAsBsvkS06zzxtN4Th0TfkL6yzUM=\",\"processedHistoryMessages\":[],\"nextPreKeyId\":1,\"firstUnuploadedPreKeyId\":1,\"accountSyncCounter\":0,\"accountSettings\":{\"unarchiveChats\":false},\"registered\":false}"
+    }
+  ],
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "QA1vTQkqgQyLNXyWgC96u384BEN69P6ENRfstNDMlng="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "G2m1+LcW+8w5rbANtZUYpNJvF8Kx0HJS0piaJKHwEAk="
+      }
+    },
+    "pairingEphemeralKeyPair": {
+      "private": {
+        "type": "Buffer",
+        "data": "CEFTjMljYeO0KMhbM9hVoi3URnBDkns62BzkU0ImaEU="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "ngBsp7GI4oqgd3bkDaDnTa+KvCldqzrcGlEyfwH8cRc="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "EGOprrSpXgdoV1a5GEFpi6AhaEq46N5gwVuDESn+h04="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "6k8Hr6FzfXr6xNXUGphmk6oD4ShjLNCRWpwV7/NH6nE="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "AKMmzYcpuZJqQ99+Lv+Nrz6d0QMqp7NwA3joPBglX2Y="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "2hCvYglJx6jcuLOHv+erzUxxuhm1f+xpe16wkM0obHQ="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "fNjIoQpwFxVcB6z8jjJUFfnRIV1i6BFDxlvVWeh/L408JJWz0bvE1fgU5FS3yuOu0CjFNKN+5oPidGQnagcJjw=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 65,
+    "advSecretKey": "J4GalvF0lU0d4REqAsBsvkS06zzxtN4Th0TfkL6yzUM=",
+    "processedHistoryMessages": [],
+    "nextPreKeyId": 1,
+    "firstUnuploadedPreKeyId": 1,
+    "accountSyncCounter": 0,
+    "accountSettings": {
+      "unarchiveChats": false
+    },
+    "registered": false
+  },
+  "savedAt": 1795845349871
+}
